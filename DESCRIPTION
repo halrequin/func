@@ -1,0 +1,9 @@
+Package: rcv
+Type: Package
+Title: receive
+Version: 1.0
+Date: 2015-10-11
+Author: Hyukjun Cho
+Maintainer: Hyukjun Cho <haha2432@gmail.com>
+Description: call library altogether
+License: CHJ
